@@ -1,0 +1,12 @@
+{
+    "name": "wrkspcs-tst",
+    "version": "1.0.0",
+    "description": "",
+    "workspaces": [
+      "packages/*"
+    ],
+    "scripts": {
+      "test": "npm test -w b"
+    }
+  }
+  

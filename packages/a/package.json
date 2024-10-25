@@ -1,0 +1,11 @@
+{
+    "name": "a",
+    "version": "1.0.0",
+    "description": "",
+    "exports": {
+        ".": {
+            "require": "./index.js"
+        }
+    }
+  }
+  
